@@ -1,0 +1,74 @@
+.home .hero img
+  max-width 450px!important
+
+.navbar .links {
+  font-size: large!important;
+}
+
+.navbar .logo {
+  height: 3.8rem!important;
+}
+
+.site-name {
+  display: none!important;
+}
+
+.theme-container.people {
+  .people {
+    display: flex;
+    text-align: center;
+
+    > a {
+      width: 22%;
+      padding: 2%
+
+      &:hover {
+        background-color: #eaecef;
+        text-decoration: none;
+      }
+
+      img {
+        border: 1px solid #eaecef;
+        object-fit: cover;
+      }
+
+      .name {
+        font-size: large;
+      }
+      .title {
+        color: $textColor;
+      }
+    }
+  }
+}
+
+.theme-container.research {
+  .research {
+    display: flex;
+
+    > a {
+      width: 44%;
+      padding: 3%
+
+      &:hover {
+        background-color: #eaecef;
+        text-decoration: none;
+      }
+
+      img {
+        border: 1px solid #eaecef;
+        width: 100%;
+        object-fit: cover;
+      }
+
+      .title {
+        font-size: larger;
+        padding-bottom: 0.5rem;
+      }
+      .description {
+        color: $textColor;
+        font-weight: initial;
+      }
+    }
+  }
+}
