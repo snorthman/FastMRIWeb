@@ -1,7 +1,7 @@
 <template>
   <div class="research">
     <a :href="project.url" v-for="project in research" :key="project.title">
-      <img v-if="project.img" :src="$withBase(project.img)" :alt="project.title"></img>
+      <img v-if="project.img" :src="$withBase(project.img)" :alt="project.title" />
       <div class="title">{{project.title}}</div>
       <div class="description">{{project.description}}</div>
     </a>

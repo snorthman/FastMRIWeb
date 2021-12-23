@@ -9,16 +9,18 @@
   },
   "repository": "https://github.com/snorthman/FastMRIWeb/FastMRIWeb",
   "scripts": {
-    "dev": "vuepress dev src --temp .temp",
-    "build": "vuepress build src"
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.8.3",
+    "vuepress": "^1.9.1",
     "vuepress-bar": "^0.4.4",
     "vuepress-plugin-authors": "0.0.2",
-    "vuepress-plugin-dehydrate": "^1.1.5",
     "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-seo": "^0.1.4"
+  },
+  "dependencies": {
+    "citation-js": "^0.5.4"
   }
 }

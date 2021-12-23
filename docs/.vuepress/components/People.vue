@@ -1,7 +1,7 @@
 <template>
   <div class="people">
     <a :href="person.url" target=”_blank” v-for="person in people" :key="person.name">
-      <img :src="$withBase(person.img)" :alt="person.name" @error="noPersonImage"></img>
+      <img :src="$withBase(person.img)" :alt="person.name" @error="noPersonImage" />
       <div class="name">{{person.name}}</div>
       <div class="title">{{person.title}}</div>
       <div><OutboundLink/></div>

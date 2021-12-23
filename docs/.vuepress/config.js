@@ -1,7 +1,7 @@
+const path = require('path')
 const { description } = require('../../package')
 const getConfig = require("vuepress-bar");
-const { nav, sidebar } = getConfig({ addReadMeToFirstGroup: false });
-console.log(sidebar)
+var { _, sidebar } = getConfig();
 
 module.exports = {
   base: '/FastMRIWeb/',
@@ -16,19 +16,21 @@ module.exports = {
     logo: '/logo.png',
     repo: 'snorthman/FastMRIWeb',
     repoLabel: 'GitHub',
-    editLinks: true,
-    docsDir: '',
-    search: false,
-    editLinkText: 'Edit',
+    editLink: true,
+    editLinkText: 'Edit this page',
+    docsDir: 'docs',
     lastUpdated: 'Last updated',
-    smoothScroll: true,
-    sidebar,
-    // sidebar: {
-    //   '/research/': {
-    //     title: 'x',
-    //     collapsable: false,
-    //   }
-    // },
+    nextLinks: false,
+    prevLinks: false,
+    darkMode: false,
+    sidebar: [
+      {
+        path: '/research/',
+        title: 'Research lines',
+        collapsable: false,
+        children: sidebar.find(o => o.title == "Research").children.slice(1)
+      }
+    ],
     nav: [
       {
         text: 'FastMRI',
@@ -48,11 +50,7 @@ module.exports = {
       }
     ]
   },
-  plugins: {
-    'seo': {},
-    'authors': {},
-    'vuepress-plugin-mathjax': {
-
-    }
-  }
+  plugins: [
+    'seo', 'authors', 'mathjax'
+  ]
 }
