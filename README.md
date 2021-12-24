@@ -2,7 +2,7 @@
 
 This repository stores all the content and source code for the FastMRI website. From this repository a Vuepress website is built.
 
-[![Build and Deploy](https://github.com/snorthman/FastMRIWeb/actions/workflows/vuedeploy.yml/badge.svg)]
+![Build and Deploy](https://github.com/snorthman/FastMRIWeb/actions/workflows/vuedeploy.yml/badge.svg)
 
 ## Updating the content
 
