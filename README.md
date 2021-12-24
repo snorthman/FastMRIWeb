@@ -1,10 +1,14 @@
-# DIAG Website content
+# [DIAG Website content](https://snorthman.github.io/FastMRIWeb/)
 
 This repository stores all the content and source code for the FastMRI website. From this repository a Vuepress website is built.
 
 [![Build and Deploy](https://github.com/snorthman/FastMRIWeb/blob/main/.github/workflows/vuedeploy.yml/badge.svg)]
 
 ## Updating the content
+
+Read the [basic Markdown guide](https://www.markdownguide.org/basic-syntax/) to get started. Any file ending with `.md` is a Markdown file. Content between two `---` lines is not Markdown, but the "frontmatter".
+
+Images in Markdown can be added in the same directory (e.g. `![An image](./image.png)` in `/docs/README.md` resolves to `/docs/image.png`).
 
 Within the `/docs/` directory structure, the page routing paths are as follows:
 
@@ -16,7 +20,7 @@ Within the `/docs/` directory structure, the page routing paths are as follows:
 
 ### Adding a person
 
-In `/docs/people.md`, add a new line:
+In `/docs/people.md`, add a new line within the `<div class="people"/>`:
 
 `<Person name="NAME" title="TITLE" url="URL" img="IMAGE" />`
 

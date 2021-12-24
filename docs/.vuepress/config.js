@@ -8,6 +8,8 @@ module.exports = {
   title: 'FastMRI.eu',
   description: description,
   head: [
+    //<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    ['link', { rel: 'shortcut icon', type: 'image/x-icon', href: 'favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#EC7700' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]

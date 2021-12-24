@@ -7,3 +7,5 @@ img: mammo.jpg
 # Research
 
 Information about this cool research
+
+![A mountain](./mountains.jpg)
