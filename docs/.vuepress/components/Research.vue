@@ -1,32 +1,33 @@
 <template>
-  <div class="research">
-    <a :href="project.url" v-for="project in research" :key="project.title">
-      <img v-if="project.img" :src="$withBase(project.img)" :alt="project.title" />
-      <div class="title">{{project.title}}</div>
-      <div class="description">{{project.description}}</div>
+    <a v-if="ready" :href="path">
+      <img v-if="img" :src="$withBase(`/research/${img}`)" :alt="title" />
+      <div class="title">{{title}}</div>
+      <div class="description">{{description}}</div>
     </a>
-  </div>
 </template>
 
 <script>
 export default {
+props: ['slug'],
 data() {
-    return {
-      research: []
-    };
-  },
-  methods: {
-  },
-  mounted () {
-    for (let page of this.$site.pages) {
-      if (page.path.startsWith(this.$page.path) && page != this.$page) {
-        let project = page.frontmatter
-        project.url = page.regularPath
-        project.img = project.img ? '/research/' + project.img : null
-        if (!project.draft)
-            this.research.push(project)
-      }
+        return {
+            path: "",
+            img: "",
+            title: "",
+            description: "",
+            ready: false
+        };
+    },
+    methods: {},
+    beforeMount() {
+        var project = this.$site.pages.find(p => p.regularPath.startsWith(`/research/${this.slug}`)) || {}
+        var fm = project.frontmatter || {}
+
+        this.path = project.path || false
+        this.img = fm.img || false
+        this.title = project.title || false
+        this.description = fm.description || false
+        this.ready = [this.path, this.title, this.description].every(p => p)
     }
-  }
 }
 </script>

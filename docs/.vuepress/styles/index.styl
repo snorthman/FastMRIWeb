@@ -5,6 +5,7 @@
 .navbar {
   .links {
     font-size: large!important;
+    padding-right: 3rem;
   }
   .logo {
     height: 3.8rem!important;
@@ -15,14 +16,29 @@
   display: none!important;
 }
 
+.repo-link {
+  display: none!important;
+}
+
 .theme-container.people {
   .people {
     display: flex;
+    flex-flow: wrap;
     text-align: center;
 
     > a {
-      width: 22%;
-      padding: 2%
+      box-sizing: border-box;
+      padding: 1rem;
+      flex-basis: 25%;
+      max-width: 25%;
+      @media screen and (max-width: 719px) {
+        flex-basis: 33%;
+        max-width: 33%;
+      }
+      @media screen and (max-width: 419px) {
+        flex-basis: 50%;
+        max-width: 50%;
+      }
 
       &:hover {
         background-color: #eaecef;
@@ -47,10 +63,25 @@
 .theme-container.research {
   .research {
     display: flex;
+    flex-flow: wrap;
 
     > a {
-      width: 44%;
-      padding: 3%
+      box-sizing: border-box;
+      padding: 1rem;
+      flex-basis: 50%;
+      max-width: 50%;
+      @media screen and (max-width: 839px) {
+        flex-basis: 100%;
+        max-width: 100%;
+      }
+      @media screen and (max-width: 719px) {
+        flex-basis: 50%;
+        max-width: 50%;
+      }
+      @media screen and (max-width: 419px) {
+        flex-basis: 100%;
+        max-width: 100%;
+      }
 
       &:hover {
         background-color: #eaecef;

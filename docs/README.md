@@ -13,3 +13,4 @@ features:
   details: Feature 3 Description
 footer: Footer text
 ---
+Content text

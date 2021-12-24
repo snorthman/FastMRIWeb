@@ -15,14 +15,14 @@ module.exports = {
   themeConfig: {
     logo: '/logo.png',
     repo: 'snorthman/FastMRIWeb',
-    repoLabel: 'GitHub',
-    editLink: true,
+    repoLabel: '',
+    editLinks: true,
     editLinkText: 'Edit this page',
     docsDir: 'docs',
     lastUpdated: 'Last updated',
     nextLinks: false,
     prevLinks: false,
-    darkMode: false,
+    search: false,
     sidebar: [
       {
         path: '/research/',
