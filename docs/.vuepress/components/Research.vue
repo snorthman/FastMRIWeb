@@ -1,5 +1,5 @@
 <template>
-    <a v-if="ready" :href="path">
+    <a v-if="ready" :href="$withBase(path)">
       <img v-if="img" :src="$withBase(`/research/${img}`)" :alt="title" />
       <div class="title">{{title}}</div>
       <div class="description">{{description}}</div>
