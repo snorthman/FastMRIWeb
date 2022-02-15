@@ -1,10 +1,13 @@
 ---
 pageClass: research
+sidebar: false
 ---
 # Research lines
 
-Select a card to learn more about a project within the FastMRI consortium.
+Information about this cool research
 
-<div class="research">
+![A mountain](./mountains.jpg)
+
+<!-- <div class="research">
 <Research slug="prostate-image-analysis"/>
-</div>
+</div> -->

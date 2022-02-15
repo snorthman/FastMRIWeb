@@ -20,45 +20,45 @@
   display: none!important;
 }
 
-.theme-container.people {
-  .people {
-    display: flex;
-    flex-flow: wrap;
-    text-align: center;
 
-    > a {
-      box-sizing: border-box;
-      padding: 1rem;
-      flex-basis: 25%;
-      max-width: 25%;
-      @media screen and (max-width: 719px) {
-        flex-basis: 33%;
-        max-width: 33%;
-      }
-      @media screen and (max-width: 419px) {
-        flex-basis: 50%;
-        max-width: 50%;
-      }
+.people {
+  display: flex;
+  flex-flow: wrap;
+  text-align: center;
 
-      &:hover {
-        background-color: #eaecef;
-        text-decoration: none;
-      }
+  > a {
+    box-sizing: border-box;
+    padding: 1rem;
+    flex-basis: 25%;
+    max-width: 25%;
+    @media screen and (max-width: 719px) {
+      flex-basis: 33%;
+      max-width: 33%;
+    }
+    @media screen and (max-width: 419px) {
+      flex-basis: 50%;
+      max-width: 50%;
+    }
 
-      img {
-        border: 1px solid #eaecef;
-        object-fit: cover;
-      }
+    &:hover {
+      background-color: #eaecef;
+      text-decoration: none;
+    }
 
-      .name {
-        font-size: large;
-      }
-      .title {
-        color: $textColor;
-      }
+    img {
+      border: 1px solid #eaecef;
+      object-fit: cover;
+    }
+
+    .name {
+      font-size: large;
+    }
+    .title {
+      color: $textColor;
     }
   }
 }
+
 
 .theme-container.research {
   .research {

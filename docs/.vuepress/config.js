@@ -45,10 +45,6 @@ module.exports = {
       {
         text: 'Research',
         link: '/research/'
-      },
-      {
-        text: 'Contact',
-        link: '/contact/'
       }
     ]
   },
