@@ -20,13 +20,13 @@ Within the `/docs/` directory structure, the page routing paths are as follows:
 
 ### Adding a person
 
-In `/docs/people.md`, add a new line within the `<div class="people"/>`:
+In `/docs/people.md`, add a new line within a `<People header="HEADER">`:
 
 `<Person name="NAME" title="TITLE" url="URL" img="IMAGE" />`
 
-`img` is optional. Add images to the `/docs/.vuepress/public/people/` directory for `img` to resolve.
+`img` is optional. Add images to the `/docs/.vuepress/public/people/` directory for `img` to resolve. Try to keep them square.
 
-### Adding a research page
+### Adding a research page (Deprecated)
 
 Create a new `.md` file in `/docs/research/`, use only alphanumerics and dashes for the name.
 
@@ -49,7 +49,7 @@ In `/research/README.md`, add a new line:
 
 ## Building the website locally
 
-Working directory contains the `package.json` file.
+Your working directory contains the `package.json` file. `npm` is installed by installing [`nodejs`](https://nodejs.org/en/download/).
 
 1. `npm install`
-2. `npm run build`
+2. `npm run build` or `npm run dev` to host the website locally.
