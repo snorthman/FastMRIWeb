@@ -5,16 +5,12 @@ tagline:
 actionText: Research →
 actionLink: /research/
 ---
-## [Dreigend tekort aan MRI-scans](https://www.skipr.nl/nieuws/dreigend-tekort-aan-mri-scans-umcg-krijgt-subsidie-voor-snellere-scan/)
+## [Fast MRI in prostate cancer](https://www.health-holland.com/project/2021/2021/fast-mri-prostate-cancer)
 
-Radioloog en onderzoeker Derya Yakar van het Universitair Medisch Centrum Groningen (UMCG) krijgt een subsidie van 1,9 miljoen euro om onderzoek te doen naar het verkorten van de duur van MRI-scans bij verdenking op prostaatkanker met behulp van artificial intelligence. 
+By joining forces between the UMCG (Groningen, The Netherlands), RadboudUmc (Nijmegen, The Netherlands), University of Twente (Enschede, The Netherlands) and Siemens Healthineers (Erlangen, Germany), the acceleration of MRI with AI will be investigated. The research focuses on new Artificial Intelligence (AI) techniques for faster and more accurate MRI for diagnostic and interventional purposes in prostate cancer.  
 
-## [MRI-scantijd bij prostaatkanker terugbrengen naar kwartier](https://www.oogtv.nl/2021/06/rug-onderzoeker-wil-mri-scan-bij-prostaatkanker-terugbrengen-naar-kwartier/)
+## [Grant for The FastMRI project](https://umcgresearch.org/nl/w/over-1-million-euro-grant-for-the-fastmri-project)
 
-Een MRI-scan bij verdenking van prostaatkanker moet teruggebracht kunnen worden van 40 naar 15 minuten. Dat is het doel van radioloog en onderzoeker Derya Yakar van het UMCG.
-
-## [Subsidie van 1,9 miljoen euro voor het verkorten de MRI-scantijd](https://twitter.com/campusgr_/status/1404747420316151811)
-
-Radioloog en onderzoeker Derya Yakar van het umcg heeft een subsidie van 1,9 miljoen euro ontvangen voor onderzoek naar het verkorten van de duur van MRI-scans bij verdenking op prostaatkanker. Zij gaat hiervoor artificial intelligence gebruiken. 
+A collaboration between Derya Yakar (UMCG), Thomas Kwee (UMCG), Henkjan Huisman (RadboudUmc), Jurgen Futterer (RadboudUmc/UT), Frank Simonis (UT), Jelmer Wolterink (UT) and Wouter Nijhof (Siemens Healthineers) receives a grant for a project called FastMRI. The goal of the project is to develop new artificial intelligence (AI) techniques that will make MRI for the diagnosis and interventions in prostate cancer targeted, and therefore faster and more accurate. The FastMri collaboration project is co-funded by the PPP Allowance made available by Health~Holland, Top Sector Life Sciences & Health, to stimulate public-private partnerships and by Siemens Healthineers. 
 
 <Footer/>
