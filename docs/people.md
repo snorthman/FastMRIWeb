@@ -2,12 +2,12 @@
 sidebar: false
 ---
 <People header="Faculty">
+<Person name="Derya Yakar" title="Radiologist" sub-title="Project leader" url="https://www.umcg.nl/-/d-yakar" img="derya-yakar.png" />
+<Person name="Henkjan Huisman" title="Associate Professor" sub-title="AI leader" url="https://www.diagnijmegen.nl/people/henkjan-huisman/" img="henkjan-huisman.png" />
+<Person name="Thomas Kwee" title="Radiologist" url="https://www.umcg.nl/-/t-c-kwee" img="thomas-kwee.png" /> 
 <Person name="Jurgen Futterer" title="Professor" url="https://www.radboudumc.nl/personen/jurgen-futterer" img="jurgen-futterer.png" />
-<Person name="Henkjan Huisman" title="Associate Professor" url="https://www.diagnijmegen.nl/people/henkjan-huisman/" img="henkjan-huisman.png" />
 <Person name="Frank Simonis" title="Assistant professor" url="https://people.utwente.nl/f.f.j.simonis" img="frank-simonis.png" />
 <Person name="Jelmer Wolterink" title="Assistant professor" url="https://people.utwente.nl/j.m.wolterink" img="jelmer-wolterink.png" />
-<Person name="Derya Yakar" title="Radiologist" url="https://www.umcg.nl/-/d-yakar" img="derya-yakar.png" />
-<Person name="Thomas Kwee" title="Radiologist" url="https://www.umcg.nl/-/t-c-kwee" img="thomas-kwee.png" /> 
 <Person name="Wouter Nijhof" title="Siemens Healthineers" url="https://www.linkedin.com/in/wouter-nijhof-5a381074/?originalSubdomain=nl" img="wouter-nijhof.png" />
 </People>
 <People header="Scientific staff">
