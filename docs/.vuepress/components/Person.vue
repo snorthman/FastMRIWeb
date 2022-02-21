@@ -3,13 +3,14 @@
       <img :src="$withBase(`/people/${img}`)" :alt="name" @error="noPersonImage" />
       <div class="name">{{name}}</div>
       <div class="title">{{title}}</div>
+      <div v-if="subtitle" class="subtitle">{{subtitle}}</div>
       <div><OutboundLink/></div>
     </a>
 </template>
 
 <script>
 export default {
-    props: ['url', 'name', 'img', 'title'], 
+    props: ['url', 'name', 'img', 'title', 'subtitle'], 
     data() {
         return {
             ready: false
