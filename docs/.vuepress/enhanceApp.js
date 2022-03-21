@@ -14,7 +14,7 @@ export default ({
   siteData, // site metadata
 }) => {
   // Vue.component("Citation", Citation)
-  // router = createRouter({
-  //   history: createWebHistory()
-  // })
+  router = createRouter({
+    history: createWebHistory()
+  })
 }
