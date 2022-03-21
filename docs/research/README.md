@@ -1,6 +1,6 @@
 ---
 pageClass: research
-sidebar: false
+sidebar: true
 ---
 # FastMRI in prostate cancer
 

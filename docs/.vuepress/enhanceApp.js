@@ -5,6 +5,7 @@
  */
 // import Citation from './plugins/Citation.vue'
 // import Cite from 'citation-js'
+import { createRouter, createWebHistory } from 'vue-router'
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -13,4 +14,7 @@ export default ({
   siteData, // site metadata
 }) => {
   // Vue.component("Citation", Citation)
+  router = createRouter({
+    history: createWebHistory()
+  })
 }
