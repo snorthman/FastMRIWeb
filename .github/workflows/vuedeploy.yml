@@ -17,4 +17,4 @@ jobs:
         TARGET_REPO: snorthman/FastMRIWeb
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/.vuepress/dist
-      #  CNAME: https://www.xxx.com
+        CNAME: https://www.fastmri.eu

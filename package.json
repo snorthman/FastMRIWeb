@@ -7,7 +7,7 @@
     "name": "C.R. Noordman",
     "email": "stan.noordman@radboudumc.nl"
   },
-  "repository": "https://github.com/snorthman/FastMRIWeb/FastMRIWeb",
+  "repository": "https://github.com/snorthman/FastMRIWeb",
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs"
