@@ -4,7 +4,8 @@ const getConfig = require("vuepress-bar");
 var { _, sidebar } = getConfig();
 
 module.exports = {
-  base: '/FastMRIWeb/',
+  // base: '/FastMRIWeb/',
+  base: '/',
   title: 'FastMRI.eu',
   description: description,
   head: [

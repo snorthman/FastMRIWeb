@@ -17,7 +17,3 @@ therefore faster and more accurate. Innovative harmoniously operating AI techniq
 # Collaboration partners
 
 The project is a collaboration between Derya Yakar (UMCG), Thomas Kwee (UMCG), Henkjan Huisman (RadboudUmc), Jurgen Futterer (RadboudUmc/UT), Frank Simonis (UT), Jelmer Wolterink (UT), Wouter Nijhof (Siemens Healthineers). The PhD candidates working on the project are Joeran Bosma (RadboudUmc), Stan Noordman (RadboudUmc), Nida Mir (UT), Quintin van Lohuizen (UMCG), Stefan Fransen (UMCG). The FastMri collaboration project is co-funded by the PPP Allowance made available by Health~Holland, Top Sector Life Sciences & Health, to stimulate public-private partnerships and by Siemens Healthineers.
-
-<!-- <div class="research">
-<Research slug="prostate-image-analysis"/>
-</div> -->
