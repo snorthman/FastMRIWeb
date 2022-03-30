@@ -26,6 +26,14 @@ In `/docs/people.md`, add a new line within a `<People header="HEADER">`:
 
 `img` is optional. Add images to the `/docs/.vuepress/public/people/` directory for `img` to resolve. Try to keep them square.
 
+### Adding an action button
+
+In any `.md` file, you can add
+
+`<ActionButton action="BUTTON TEXT" link="HYPERLINK" />`
+
+If `link` starts with `/`, it is assumed to be relative to `fastmri.eu` (e.g. `/research/` resolves to `fastmri.eu/research/`)
+
 ### Adding a research page (Deprecated)
 
 Create a new `.md` file in `/docs/research/`, use only alphanumerics and dashes for the name.
