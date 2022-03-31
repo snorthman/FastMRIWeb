@@ -10,7 +10,7 @@ Any `.md` file is open for editing. When you are done editing, you can propose t
 
 [Edit the main page](https://github.com/snorthman/FastMRIWeb/edit/master/docs/README.md)
 
-[Edit the /people/ page (See 'Adding a person' for more info)](https://github.com/snorthman/FastMRIWeb/blob/master/docs/people.md)
+[Edit the /people/ page](https://github.com/snorthman/FastMRIWeb/blob/master/docs/people.md) (See 'Adding a person' for more info)
 
 [Edit the /research/ page](https://github.com/snorthman/FastMRIWeb/blob/master/docs/README.md)
 
