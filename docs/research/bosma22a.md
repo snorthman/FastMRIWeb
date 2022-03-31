@@ -12,7 +12,7 @@ The algorithm predicts a heatmap for the likelihood of clinically significant pr
 
 ## 💻 Code
 Source code for generating Report-Guided Annotations is publicly available.
-<ActionButton action="Source" link="https://github.com/DIAGNijmegen/Report-Guided-Annotation" />
+<ActionButton action="Source" link="www.github.com/DIAGNijmegen/Report-Guided-Annotation" />
 
 ## 📚 Citation
 If you use our method or algorithm in your work, please cite our work:

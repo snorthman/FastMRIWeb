@@ -4,6 +4,14 @@ This repository stores all the content and source code for the FastMRI website. 
 
 ![Build and Deploy](https://github.com/snorthman/FastMRIWeb/actions/workflows/vuedeploy.yml/badge.svg)
 
+## Editing content
+
+Any `.md` file is open for editing. When you are done editing, you can propose the edit by pressing **Propose changes**. After review, the edits will be published.
+
+[Edit the main page](https://github.com/snorthman/FastMRIWeb/edit/master/docs/README.md)
+[Edit the /people/ page (See 'Adding a person' for more info)](https://github.com/snorthman/FastMRIWeb/blob/master/docs/people.md)
+[Edit the /research/ page](https://github.com/snorthman/FastMRIWeb/blob/master/docs/README.md)
+
 ## Updating the content
 
 Read the [basic Markdown guide](https://www.markdownguide.org/basic-syntax/) to get started. Any file ending with `.md` is a Markdown file. Content between two `---` lines is not Markdown, but the "frontmatter".
@@ -12,11 +20,11 @@ Images in Markdown can be added in the same directory (e.g. `![An image](./image
 
 Within the `/docs/` directory structure, the page routing paths are as follows:
 
-|    Relative Path      |  Page Routing  |
-|-----------------------|----------------|
-| `/README.md`          | `/`            |
-| `/research/README.md` | `/research/`   |
-| `/contact.md`         | `/contact.html`|
+| Relative Path         | Page Routing    |
+| --------------------- | --------------- |
+| `/README.md`          | `/`             |
+| `/research/README.md` | `/research/`    |
+| `/contact.md`         | `/contact.html` |
 
 ### Adding a person
 

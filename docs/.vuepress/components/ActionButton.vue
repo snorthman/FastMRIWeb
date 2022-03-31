@@ -1,6 +1,6 @@
 <template>
     <p class="component action">        
-        <a :href="link.startsWith('/') ? $withBase(link) : `//${link}`" class="nav-link action-button">
+        <a :href="link.startsWith('/') ? $withBase(link) : (/^https?:\/\//.test(link) ? link : `https://${link}`)" class="nav-link action-button">
             {{action}} →
         </a>
     </p>
