@@ -31,6 +31,7 @@ module.exports = {
         path: '/research/',
         title: 'Research',
         collapsable: false,
+        sidebarDepth: 0,
         children: sidebar.find(o => o.title == "Research").children.slice(1)
       }
     ],
