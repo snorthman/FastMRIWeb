@@ -9,7 +9,9 @@ This repository stores all the content and source code for the FastMRI website. 
 Any `.md` file is open for editing. When you are done editing, you can propose the edit by pressing **Propose changes**. After review, the edits will be published.
 
 [Edit the main page](https://github.com/snorthman/FastMRIWeb/edit/master/docs/README.md)
+
 [Edit the /people/ page (See 'Adding a person' for more info)](https://github.com/snorthman/FastMRIWeb/blob/master/docs/people.md)
+
 [Edit the /research/ page](https://github.com/snorthman/FastMRIWeb/blob/master/docs/README.md)
 
 ## Updating the content
