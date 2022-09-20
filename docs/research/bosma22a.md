@@ -1,6 +1,6 @@
 ---
 pageClass: research
-title: Bosma 2022
+title: Bosma22semi
 ---
 # Semi-supervised learning with report-guided lesion annotation for deep learning-based prostate cancer detection in bpMRI
 ## 📖 Abstract
