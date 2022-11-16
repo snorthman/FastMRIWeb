@@ -8,7 +8,7 @@ actionLink: /research/
 
 # [Third place winner in international K2S challenge](https://k2s.grand-challenge.org/)
 
-We accepted the challenge from UCSF to perform knee segmentations on accelerated raw MRI data (from k-space to segmentation). Accelerating MRI is essential to reduce patient discomfort in the scanner and decrease healthcare costs. We submitted a fully automated end-to-end pipeline for generating high-resolution multi-class knee segmentations from undersampled k-space. We showed that a state-of-the-art deep learning model could accelerate knee MRI 8x for task-based segmentation. Happy to finish third in this international K2S challenge of MICCAI 2022! 
+We showed that a state-of-the-art deep learning model could accelerate knee MRI 8x for task-based segmentation and are happy to finish third in this international K2S challenge of MICCAI 2022!
 
 # [Fast MRI in prostate cancer](https://www.health-holland.com/project/2021/2021/fast-mri-prostate-cancer)
 
