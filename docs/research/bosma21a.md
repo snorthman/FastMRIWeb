@@ -1,8 +1,9 @@
 ---
 pageClass: research
-title: Bosma21augmenting
+title: Augmented AI to PCa detection in bpMRI
 ---
 # Augmenting AI with Automated Segmentation of Report Findings Applied to Prostate Cancer Detection in Biparametric MRI
+
 ## 📖 Abstract
 *Purpose*: To improve risk stratification of clinically significant prostate cancer (csPCa) with a 3D deep learning detection model, by augmenting the largest prostate MRI dataset reported in literature to date. 
 

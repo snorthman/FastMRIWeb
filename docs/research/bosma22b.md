@@ -1,8 +1,9 @@
 ---
 pageClass: research
-title: Bosma22performant
+title: J.S. Bosma, et al. (2022b)
 ---
 # Performant and Reproducible Deep Learning-Based Cancer Detection Models for Medical Imaging
+
 ## 📖 Abstract
 *Purpose*: Investigate optimal loss functions for deep learning-based cancer detection and risk stratification.
 

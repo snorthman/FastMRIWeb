@@ -11,9 +11,12 @@ therapeutic intervention in 1-2 hours. In order for healthcare systems to be abl
 
 In this project we will be investigating speeding up MRI in prostate cancer (PCa) diagnosis and interventions. PCa will serve as a proof of concept disease, with future expansion possibilities to other (clinical) MRI applications. National and European guidelines have recently changed and recommend mpMRI as first-line diagnostic work up in all patients suspected of PCa. MRI is also expected to be more intensively used for surveillance in the setting of a watchful waiting strategy, in order to avoid overtreatment of PCa. Consequently, the number of MRI scans and associated cumulative costs will substantially increase.
 
-In this project, called “FastMRI", we will develop new artificial intelligence (AI) techniques that will make MRI for the diagnosis and interventions in PCa targeted, and
-therefore faster and more accurate. Innovative harmoniously operating AI techniques will be developed for this purpose: detection, reconstruction, and steering AI (which will target disease and interventional instruments on raw, low resolution, and acquired images), together with corresponding MRI sequence development.
+We will develop new artificial intelligence (AI) techniques that will make MRI for the diagnosis and interventions in PCa targeted, and therefore faster and more accurate. Innovative harmoniously operating AI techniques will be developed for this purpose: detection, reconstruction, and steering AI (which will target disease and interventional instruments on raw, low resolution, and acquired images), together with corresponding MRI sequence development.
 
-# Collaboration partners
+# [Collaboration partners](/people/)
 
-The project is a collaboration between Derya Yakar (UMCG), Thomas Kwee (UMCG), Henkjan Huisman (RadboudUmc), Jurgen Futterer (RadboudUmc/UT), Frank Simonis (UT), Jelmer Wolterink (UT), Wouter Nijhof (Siemens Healthineers). The PhD candidates working on the project are Joeran Bosma (RadboudUmc), Stan Noordman (RadboudUmc), Nida Mir (UT), Quintin van Lohuizen (UMCG), Stefan Fransen (UMCG). The FastMri collaboration project is co-funded by the PPP Allowance made available by Health~Holland, Top Sector Life Sciences & Health, to stimulate public-private partnerships and by Siemens Healthineers.
+The project is a collaboration between Derya Yakar (UMCG), Thomas Kwee (UMCG), Henkjan Huisman (Radboudumc), Jurgen Futterer (Radboudumc/UT), Frank Simonis (UT), Jelmer Wolterink (UT), Wouter Nijhof (Siemens Healthineers). 
+
+The PhD candidates working on the project are Joeran Bosma (RadboudUmc), Stan Noordman (RadboudUmc), Nida Mir (UT), Quintin van Lohuizen (UMCG), Stefan Fransen (UMCG). 
+
+The FastMRI collaboration project is co-funded by the PPP Allowance made available by Health~Holland, Top Sector Life Sciences & Health, to stimulate public-private partnerships and by Siemens Healthineers.

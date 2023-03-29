@@ -1,11 +1,11 @@
 ---
 pageClass: research
-title: Fransen_22_artificial_reader
+title: S.J. Fransen, et al. (2022)
 ---
 # Diagnostic AI to speed up MRI protocols by identifying redundant sequences: are all diffusion-weighted prostate MRI sequences necessary?
+
 ## 📖 Abstract
 *Purpose*: To explore if an expert-level diagnostic AI can help speed up MRI by identifying redundant sequences in diffusion-weighted imaging (DWI) for the diagnostic detection of clinically significant prostate cancer (csPCa).
-
 
 *Materials and Methods*: Existing deep learning AI architectures detects csPCa based on bpMRI at expert-level. We developed a method in which this AI assesses the added diagnostic value of a sequence. This retrospective study included 840 patients with a bi-parametric prostate MRI (bpMRI) for initial detection of csPCa. The bmMRI comprises a T2-weighted image and DWI with b-values of 50, 400, and 800 s/mm² on a 3T scanner (Skyra and Prima). Our method entails computing ADC and b1400 maps based on different DWI combinations: 1) b800 excluded, 2) b400 excluded, 3) complete set. AI models for the various bpMRI combination were trained 5-fold and statistically compared with receiver operating curve (ROC) analysis at patient and lesion level using respectively the DeLong’s and permutation test.
 

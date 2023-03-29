@@ -67,7 +67,7 @@ In `/research/README.md`, add a new line:
 
 ## Building the website locally
 
-Your working directory contains the `package.json` file. `npm` is installed by installing [`nodejs`](https://nodejs.org/en/download/).
+Make sure the working directory contains the `package.json` file. `npm` is installed by installing [`nodejs`](https://nodejs.org/en/download/).
 
 1. `npm install`
 2. `npm run build` or `npm run dev` to host the website locally.
