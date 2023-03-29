@@ -1,6 +1,6 @@
 ---
 pageClass: research
-title: Augmented AI to PCa detection in bpMRI
+title: J.S. Bosma, et al. (2021)
 ---
 # Augmenting AI with Automated Segmentation of Report Findings Applied to Prostate Cancer Detection in Biparametric MRI
 
