@@ -13,11 +13,10 @@ title: Q. van Lohuizen, et al. (2023)
 
 *Conclusion*: Recovery of visual quality in reconstructions does not correlate with recovering diagnostic quality, emphasizing the importance of measuring diagnostic value rather than visual similarity. AI reconstruction tools should be approached with care because they might have been optimized to reconstruct visually appealing images instead of diagnostic images.
 
+## 🏆 Award
+"We would like to wholeheartedly congratulate you that the ECR 2023 Scientific Subcommittee has selected you as the award winner within the topic "Imaging Informatics / Artificial Intelligence and Machine Learning" in merit of your research presentation abstract entitled "Faster MRI acquisition: the relationship between visual and diagnostic quality in prostate MRI reconstruction"."
+_- ECR Abstract Team, Scientific Programme Department_
 
 ## 📚 Citation
 Q.Y. van Lohuizen, C. Roest, F.F.J. Simonis, S.J. Fransen, T.C. Kwee, D. Yakar and H. Huisman, _"Faster MRI Acquisition: the Relationship between Visual and Diagnostic Quality in Prostate MRI Reconstruction"_, Annual Meeting of the European Society of Radiology, 2023.
 
-
-## Award
-"We would like to wholeheartedly congratulate you that the ECR 2023 Scientific Subcommittee has selected you as the award winner within the topic "Imaging Informatics / Artificial Intelligence and Machine Learning" in merit of your research presentation abstract entitled "Faster MRI acquisition: the relationship between visual and diagnostic quality in prostate MRI reconstruction"."
-_- ECR Abstract Team, Scientific Programme Department_
