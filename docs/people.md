@@ -3,7 +3,7 @@ sidebar: false
 ---
 <People header="Faculty">
 <Person name="Derya Yakar" title="Radiologist" subtitle="Project leader" url="https://www.umcg.nl/-/d-yakar" img="derya-yakar.png" />
-<Person name="Henkjan Huisman" title="Associate Professor" subtitle="AI leader" url="https://www.diagnijmegen.nl/people/henkjan-huisman/" img="henkjan-huisman.png" />
+<Person name="Henkjan Huisman" title="Professor of Medical Imaging AI" subtitle="AI leader" url="https://www.diagnijmegen.nl/people/henkjan-huisman/" img="henkjan-huisman.png" />
 <Person name="Thomas Kwee" title="Radiologist" url="https://www.umcg.nl/-/t-c-kwee" img="thomas-kwee.png" /> 
 <Person name="Jurgen Futterer" title="Professor" url="https://www.radboudumc.nl/personen/jurgen-futterer" img="jurgen-futterer.png" />
 <Person name="Frank Simonis" title="Assistant Professor" url="https://people.utwente.nl/f.f.j.simonis" img="frank-simonis.png" />
