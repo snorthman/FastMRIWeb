@@ -18,4 +18,4 @@ Source code for generating Report-Guided Annotations is publicly available.
 ## 📚 Citation
 If you use our method or algorithm in your work, please cite our work:
 
-J. S. Bosma, A. Saha, M. Hosseinzadeh, I. Slootweg, M. de Rooij, H. Huisman (2021), _"Semi-supervised learning with report-guided lesion annotation for deep learning-based prostate cancer detection in bpMRI"_, to be submitted
+J. S. Bosma, A. Saha, M. Hosseinzadeh, I. Slootweg, M. de Rooij, H. Huisman. Semi-supervised Learning with Report-guided Pseudo Labels for Deep Learning-based Prostate Cancer Detection Using Biparametric MRI. Radiology: Artificial Intelligence (2023), doi:10.1148/ryai.230031..
