@@ -1,8 +1,11 @@
 ---
 pageClass: research
-title: J.S. Bosma, et al. (2021)
+title: J. S. Bosma, et al. (2021)
 ---
 # Augmenting AI with Automated Segmentation of Report Findings Applied to Prostate Cancer Detection in Biparametric MRI
+
+## 📚 Citation
+J. S. Bosma, A. Saha, M. Hosseinzadeh, and H. Huisman, "Augmenting AI with Automated Segmentation of Report Findings Applied to Prostate Cancer Detection in Biparametric MRI", _Annual Meeting of the Radiological Society of North America_, 2021.
 
 ## 📖 Abstract
 *Purpose*: To improve risk stratification of clinically significant prostate cancer (csPCa) with a 3D deep learning detection model, by augmenting the largest prostate MRI dataset reported in literature to date. 
@@ -14,6 +17,3 @@ title: J.S. Bosma, et al. (2021)
 *Conclusion*: Augmenting training with automatic report driven segmentations of prostate cancer in bpMRI significantly improved the risk-stratification of the deep learning prostate cancer detection model. 
 
 *Clinical relevance*: Risk stratification for clinically significant prostate cancer using prostate MRI is in- strumental to reduce over-treatment. Deep learning can assist, but requires expensive expert segmentations.
-
-## 📚 Citation
-J.S. Bosma, A. Saha, M. Hosseinzadeh and H. Huisman (2021), _"Augmenting AI with Automated Segmentation of Report Findings Applied to Prostate Cancer Detection in Biparametric MRI"_, Annual Meeting of the Radiological Society of North America, 2021.

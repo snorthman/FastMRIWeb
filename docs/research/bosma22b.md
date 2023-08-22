@@ -1,8 +1,11 @@
 ---
 pageClass: research
-title: J.S. Bosma, et al. (2022b)
+title: J. S. Bosma, et al. (2022b)
 ---
 # Performant and Reproducible Deep Learning-Based Cancer Detection Models for Medical Imaging
+
+## 📚 Citation
+J. S. Bosma, N. Alves, and H. Huisman (2022), "Performant and Reproducible Deep Learning-Based Cancer Detection Models for Medical Imaging", _Annual Meeting of the Radiological Society of North America_, 2022.
 
 ## 📖 Abstract
 *Purpose*: Investigate optimal loss functions for deep learning-based cancer detection and risk stratification.
@@ -14,6 +17,3 @@ title: J.S. Bosma, et al. (2022b)
 *Conclusion*: Cancer detection and risk stratification with nnU-Net were superior to nnDetection. The nnU-Net ensemble either outperformed other configurations or performed on par, making it a reliable and reproducible cancer detection method.
 
 *Clinical Relevance*: Risk stratification is instrumental for triage, biopsy planning and reduction of over-treatment. Deep learning can assist, with increasing efficacy as stand-alone performance increases.
-
-## 📚 Citation
-J.S. Bosma, N. Alves and H. Huisman (2022), _"Performant and Reproducible Deep Learning-Based Cancer Detection Models for Medical Imaging"_, Annual Meeting of the Radiological Society of North America, 2022.
