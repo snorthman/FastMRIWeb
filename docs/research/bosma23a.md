@@ -13,4 +13,4 @@ Performance of deep learning algorithms varies due to their development data and
 <ActionButton action="This paper is open access!" link="https://openreview.net/forum?id=MR01DcGST9" />
 
 ## 📚 Citation
-J.S. Bosma, Dre Peeters, Natália Alves, Anindo Saha, Zaigham Saghir, Colin Jacobs and Henkjan Huisman (2023), _"Reproducibility of Training Deep Learning Models for Medical Image Analysis"_, Medical Imaging with Deep Learning, 2023.
+J.S. Bosma, D. Peeters, N. Alves, A. Saha, Z. Saghir, C. Jacobs and H. Huisman (2023), _"Reproducibility of Training Deep Learning Models for Medical Image Analysis"_, Medical Imaging with Deep Learning, 2023.
