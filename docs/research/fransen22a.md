@@ -1,8 +1,11 @@
 ---
 pageClass: research
-title: S.J. Fransen, et al. (2022)
+title: S. J. Fransen, et al. (2022)
 ---
 # Diagnostic AI to speed up MRI protocols by identifying redundant sequences: are all diffusion-weighted prostate MRI sequences necessary?
+
+## 📚 Citation
+S. J. Fransen, C. Roest, Q. Y. van Lohuizen, J. S. Bosma, T. C. Kwee, D. Yakar, and H. Huisman, "Diagnostic AI to speed up MRI protocols by identifying redundant sequences: are all diffusion-weighted prostate MRI sequences necessary?", _Annual Meeting of the Radiological Society of North America_, 2022.
 
 ## 📖 Abstract
 *Purpose*: To explore if an expert-level diagnostic AI can help speed up MRI by identifying redundant sequences in diffusion-weighted imaging (DWI) for the diagnostic detection of clinically significant prostate cancer (csPCa).
@@ -14,6 +17,3 @@ title: S.J. Fransen, et al. (2022)
 *Conclusion*: We conclude that expert-level AI can identify redundant sequences in MRI. Furthermore, our method provides evidence that in DWI for csPCa detection, the b800 series can be omitted from the regular bpMRI protocol decreasing total MRI scan time by 33%. These results can provide significant speed-up of any MRI.
 
 *Clinical Relevance*: An increasing demand for MRI scans puts pressure on reducing scan time without losing diagnostic quality. We have developed an AI-assisted system that can spot redundant MRI sequences. This can provide a breakthrough in AI for the clinical assessment of MRI protocols and provide a solution to meet the increasing demand for MRI scans.
-
-## 📚 Citation
-S.J. Fransen, C. Roest, Q.Y. van Lohuizen, J.S. Bosma, T.C. Kwee, D. Yakar and H. Huisman (2022), _"Diagnostic AI to speed up MRI protocols by identifying redundant sequences: are all diffusion-weighted prostate MRI sequences necessary?"_, Annual Meeting of the Radiological Society of North America, 2022.
