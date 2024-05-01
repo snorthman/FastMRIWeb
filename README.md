@@ -44,26 +44,42 @@ In any `.md` file, you can add
 
 If `link` starts with `/`, it is assumed to be relative to `fastmri.eu` (e.g. `/research/` resolves to `fastmri.eu/research/`)
 
-### Adding a research page (Deprecated)
+### Adding a research page
 
-Create a new `.md` file in `/docs/research/`, use only alphanumerics and dashes for the name.
+Create a new `.md` file in `/docs/research/`, use only alphanumerics for the name.
 
-Use the following boilerplate, `img` is optional.
+Use the following boilerplate:
 
 ```
 ---
-title: Title
-description: Description
-img: Image file name
+pageClass: research
+title: A. A. Albert, et al. (2023a)
 ---
-**Content**
+# Title of my abstract
+
+## 📚 Citation
+Vancouver-styled citation, use _underscores_ for italics.
+
+If your abstract is open access:
+<ActionButton action="This paper is open access!" link="https://link/to/website" />
+otherwise remove.
+
+## 🏆 Award
+If this abstract achieved an award, otherwise delete me.
+
+## 📖 Abstract
+Content ...
+
+## 🤖 Algorithm
+If you have an algorithm to share, otherwise delete me. 
+
+<ActionButton action="Algorithm" link="https://grand-challenge.org/algorithms/my-algorithm/" />
+
+## 💻 Code
+If you have open source code to share, otherwise delete me. 
+
+<ActionButton action="Source" link="www.github.com/mycode" />
 ```
-
-In `/research/README.md`, add a new line:
-
-`<Research slug="SLUG"/>`
-
-`SLUG` is the `.md` file name, without extension. Add images to the `/docs/.vuepress/public/research/` directory for `img` to resolve.
 
 ## Building the website locally
 
